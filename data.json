@@ -1,0 +1,2376 @@
+{
+  "plan": [
+    {
+      "day": 1,
+      "week": "Week 1",
+      "topic": "Greetings & introductions",
+      "lesson": "Spanish Greetings and Introductions for Absolute Beginners",
+      "listening": "Dreaming Spanish Superbeginner: Greetings and Introductions",
+      "task": "Introduce yourself for 30 seconds.",
+      "minutes": 90
+    },
+    {
+      "day": 2,
+      "week": "Week 1",
+      "topic": "Numbers, prices & age",
+      "lesson": "Spanish Numbers 0–100 for Beginners",
+      "listening": "Dreaming Spanish Superbeginner: Numbers",
+      "task": "Say numbers and practise prices aloud.",
+      "minutes": 90
+    },
+    {
+      "day": 3,
+      "week": "Week 1",
+      "topic": "Pronunciation",
+      "lesson": "Spanish Pronunciation for Beginners",
+      "listening": "Dreaming Spanish Superbeginner: Easy Listening",
+      "task": "Read 20 simple words aloud.",
+      "minutes": 90
+    },
+    {
+      "day": 4,
+      "week": "Week 1",
+      "topic": "Days, months & time",
+      "lesson": "Days, Months and Telling Time in Spanish",
+      "listening": "Dreaming Spanish Superbeginner: Time and Daily Life",
+      "task": "Say today's day and describe your schedule.",
+      "minutes": 90
+    },
+    {
+      "day": 5,
+      "week": "Week 1",
+      "topic": "Ser & estar",
+      "lesson": "Ser vs. Estar: Beginner Spanish Lesson",
+      "listening": "Dreaming Spanish Superbeginner: Describing People",
+      "task": "Describe yourself and how you feel.",
+      "minutes": 90
+    },
+    {
+      "day": 6,
+      "week": "Week 1",
+      "topic": "Essential questions",
+      "lesson": "10 Essential Spanish Questions for Beginners",
+      "listening": "Dreaming Spanish Superbeginner: Simple Questions",
+      "task": "Ask and answer 10 basic questions.",
+      "minutes": 90
+    },
+    {
+      "day": 7,
+      "week": "Week 1",
+      "topic": "Week 1 revision",
+      "lesson": "Spanish A1 Self-Introduction Practice",
+      "listening": "Dreaming Spanish Superbeginner: Beginner Playlist",
+      "task": "Speak about yourself for one minute.",
+      "minutes": 90
+    },
+    {
+      "day": 8,
+      "week": "Week 2",
+      "topic": "Common verbs",
+      "lesson": "Most Common Spanish Verbs for Beginners",
+      "listening": "Dreaming Spanish Superbeginner: Everyday Actions",
+      "task": "Make 10 sentences about yourself.",
+      "minutes": 90
+    },
+    {
+      "day": 9,
+      "week": "Week 2",
+      "topic": "Daily routine",
+      "lesson": "How to Talk About Your Daily Routine in Spanish",
+      "listening": "Dreaming Spanish Superbeginner: Daily Routine",
+      "task": "Describe a normal day.",
+      "minutes": 90
+    },
+    {
+      "day": 10,
+      "week": "Week 2",
+      "topic": "Food & restaurants",
+      "lesson": "Spanish Restaurant Conversation for Beginners",
+      "listening": "Dreaming Spanish Superbeginner: Food",
+      "task": "Practise ordering a meal.",
+      "minutes": 90
+    },
+    {
+      "day": 11,
+      "week": "Week 2",
+      "topic": "Shopping & prices",
+      "lesson": "Spanish Shopping Conversation for Beginners in Spain",
+      "listening": "Dreaming Spanish Superbeginner: Shopping and Numbers",
+      "task": "Pretend to buy five items.",
+      "minutes": 90
+    },
+    {
+      "day": 12,
+      "week": "Week 2",
+      "topic": "Directions & transport",
+      "lesson": "Asking for Directions and Public Transport in Spanish",
+      "listening": "Dreaming Spanish Superbeginner: Places in Town",
+      "task": "Ask how to reach a place.",
+      "minutes": 90
+    },
+    {
+      "day": 13,
+      "week": "Week 2",
+      "topic": "Talking about work",
+      "lesson": "How to Talk About Your Job in Spanish",
+      "listening": "Dreaming Spanish Beginner: Work and Jobs",
+      "task": "Describe your work and experience.",
+      "minutes": 90
+    },
+    {
+      "day": 14,
+      "week": "Week 2",
+      "topic": "Week 2 revision",
+      "lesson": "Spanish Beginner Conversation: Everyday Situations",
+      "listening": "Dreaming Spanish Beginner Playlist",
+      "task": "Hold a three-minute conversation aloud.",
+      "minutes": 90
+    },
+    {
+      "day": 15,
+      "week": "Week 3",
+      "topic": "Everyday conversations",
+      "lesson": "Easy Spanish: Street Interviews and Everyday Conversations",
+      "listening": "Dreaming Spanish Beginner: Everyday Life",
+      "task": "Repeat 10 useful sentences from a video.",
+      "minutes": 90
+    },
+    {
+      "day": 16,
+      "week": "Week 3",
+      "topic": "Making friends",
+      "lesson": "Spanish Conversation: Meeting People and Making Friends",
+      "listening": "Dreaming Spanish Beginner: People and Hobbies",
+      "task": "Introduce yourself to an imaginary friend.",
+      "minutes": 90
+    },
+    {
+      "day": 17,
+      "week": "Week 3",
+      "topic": "Past tense basics",
+      "lesson": "Spanish Past Tense for Beginners",
+      "listening": "Dreaming Spanish Beginner: Yesterday and the Past",
+      "task": "Say five things you did yesterday.",
+      "minutes": 90
+    },
+    {
+      "day": 18,
+      "week": "Week 3",
+      "topic": "Future plans",
+      "lesson": "Spanish Future with 'Ir a' for Beginners",
+      "listening": "Dreaming Spanish Beginner: Plans and Future",
+      "task": "Explain your plans for tomorrow.",
+      "minutes": 90
+    },
+    {
+      "day": 19,
+      "week": "Week 3",
+      "topic": "Phone conversations",
+      "lesson": "Spanish Telephone Conversation for Beginners",
+      "listening": "Dreaming Spanish Beginner: Simple Conversations",
+      "task": "Practise answering a phone call.",
+      "minutes": 90
+    },
+    {
+      "day": 20,
+      "week": "Week 3",
+      "topic": "Problems & requests",
+      "lesson": "Useful Spanish Phrases for Everyday Problems",
+      "listening": "Dreaming Spanish Beginner: Questions and Requests",
+      "task": "Explain three simple problems.",
+      "minutes": 90
+    },
+    {
+      "day": 21,
+      "week": "Week 3",
+      "topic": "Week 3 listening test",
+      "lesson": "Spanish A1 Listening Practice for Beginners",
+      "listening": "Dreaming Spanish Beginner: Comprehensible Input",
+      "task": "Speak for five minutes about familiar topics.",
+      "minutes": 90
+    },
+    {
+      "day": 22,
+      "week": "Week 4",
+      "topic": "Colleagues & workplace",
+      "lesson": "Spanish Conversation at Work for Beginners",
+      "listening": "Dreaming Spanish Beginner: Work",
+      "task": "Role-play a conversation with a colleague.",
+      "minutes": 90
+    },
+    {
+      "day": 23,
+      "week": "Week 4",
+      "topic": "Job interviews",
+      "lesson": "Spanish Job Interview Questions and Answers for Beginners",
+      "listening": "Dreaming Spanish Beginner: Work and People",
+      "task": "Answer 10 basic interview questions.",
+      "minutes": 90
+    },
+    {
+      "day": 24,
+      "week": "Week 4",
+      "topic": "Customer service",
+      "lesson": "Spanish Customer Service Conversations for Beginners",
+      "listening": "Dreaming Spanish Beginner: Everyday Conversations",
+      "task": "Role-play helping a customer.",
+      "minutes": 90
+    },
+    {
+      "day": 25,
+      "week": "Week 4",
+      "topic": "Housing & flatmates",
+      "lesson": "Spanish Conversation: Renting a Room and Flatmates",
+      "listening": "Dreaming Spanish Beginner: Home and Daily Life",
+      "task": "Discuss cleaning and house rules.",
+      "minutes": 90
+    },
+    {
+      "day": 26,
+      "week": "Week 4",
+      "topic": "Making plans",
+      "lesson": "Spanish Conversation: Making Plans and Invitations",
+      "listening": "Dreaming Spanish Beginner: Free Time",
+      "task": "Invite someone to meet you.",
+      "minutes": 90
+    },
+    {
+      "day": 27,
+      "week": "Week 4",
+      "topic": "Understanding faster speech",
+      "lesson": "Easy Spanish: Listening to Native Speakers in Spain",
+      "listening": "Easy Spanish Street Interviews: Listen and Repeat",
+      "task": "Identify the main idea and repeat five phrases.",
+      "minutes": 90
+    },
+    {
+      "day": 28,
+      "week": "Week 4",
+      "topic": "Everyday role-play",
+      "lesson": "Spanish Dialogues for Everyday Situations A1",
+      "listening": "Dreaming Spanish Beginner: Daily Life",
+      "task": "Complete five role-play conversations.",
+      "minutes": 90
+    },
+    {
+      "day": 29,
+      "week": "Final review",
+      "topic": "Full speaking practice",
+      "lesson": "Spanish A1-A2 Conversation Practice for Beginners",
+      "listening": "Easy Spanish: Everyday Conversations",
+      "task": "Speak for up to 10 minutes using notes only if needed.",
+      "minutes": 90
+    },
+    {
+      "day": 30,
+      "week": "Final review",
+      "topic": "Final assessment",
+      "lesson": "Spanish A1 Listening Comprehension Test",
+      "listening": "Dreaming Spanish Beginner: Choose a video you understand",
+      "task": "Complete the five final speaking tasks and review progress.",
+      "minutes": 90
+    }
+  ],
+  "phrases": [
+    {
+      "day": 1,
+      "topic": "Greetings & introductions",
+      "number": 1,
+      "es": "Hola, ¿qué tal?",
+      "en": "Hi, how's it going?"
+    },
+    {
+      "day": 1,
+      "topic": "Greetings & introductions",
+      "number": 2,
+      "es": "Buenos días.",
+      "en": "Good morning."
+    },
+    {
+      "day": 1,
+      "topic": "Greetings & introductions",
+      "number": 3,
+      "es": "Buenas tardes.",
+      "en": "Good afternoon."
+    },
+    {
+      "day": 1,
+      "topic": "Greetings & introductions",
+      "number": 4,
+      "es": "Buenas noches.",
+      "en": "Good evening / good night."
+    },
+    {
+      "day": 1,
+      "topic": "Greetings & introductions",
+      "number": 5,
+      "es": "Me llamo Akram.",
+      "en": "My name is Akram."
+    },
+    {
+      "day": 1,
+      "topic": "Greetings & introductions",
+      "number": 6,
+      "es": "¿Cómo te llamas?",
+      "en": "What's your name?"
+    },
+    {
+      "day": 1,
+      "topic": "Greetings & introductions",
+      "number": 7,
+      "es": "Mucho gusto.",
+      "en": "Nice to meet you."
+    },
+    {
+      "day": 1,
+      "topic": "Greetings & introductions",
+      "number": 8,
+      "es": "¿Cómo estás?",
+      "en": "How are you? (informal)"
+    },
+    {
+      "day": 1,
+      "topic": "Greetings & introductions",
+      "number": 9,
+      "es": "Estoy bien, gracias.",
+      "en": "I'm fine, thank you."
+    },
+    {
+      "day": 1,
+      "topic": "Greetings & introductions",
+      "number": 10,
+      "es": "¿Y tú?",
+      "en": "And you?"
+    },
+    {
+      "day": 2,
+      "topic": "Numbers, prices & age",
+      "number": 1,
+      "es": "cero",
+      "en": "zero"
+    },
+    {
+      "day": 2,
+      "topic": "Numbers, prices & age",
+      "number": 2,
+      "es": "uno",
+      "en": "one"
+    },
+    {
+      "day": 2,
+      "topic": "Numbers, prices & age",
+      "number": 3,
+      "es": "dos",
+      "en": "two"
+    },
+    {
+      "day": 2,
+      "topic": "Numbers, prices & age",
+      "number": 4,
+      "es": "cinco",
+      "en": "five"
+    },
+    {
+      "day": 2,
+      "topic": "Numbers, prices & age",
+      "number": 5,
+      "es": "diez",
+      "en": "ten"
+    },
+    {
+      "day": 2,
+      "topic": "Numbers, prices & age",
+      "number": 6,
+      "es": "veinte",
+      "en": "twenty"
+    },
+    {
+      "day": 2,
+      "topic": "Numbers, prices & age",
+      "number": 7,
+      "es": "¿Cuánto cuesta?",
+      "en": "How much does it cost?"
+    },
+    {
+      "day": 2,
+      "topic": "Numbers, prices & age",
+      "number": 8,
+      "es": "Cuesta cinco euros.",
+      "en": "It costs five euros."
+    },
+    {
+      "day": 2,
+      "topic": "Numbers, prices & age",
+      "number": 9,
+      "es": "Tengo veinticinco años.",
+      "en": "I'm twenty-five years old."
+    },
+    {
+      "day": 2,
+      "topic": "Numbers, prices & age",
+      "number": 10,
+      "es": "¿Me puedes decir el precio?",
+      "en": "Can you tell me the price?"
+    },
+    {
+      "day": 3,
+      "topic": "Pronunciation",
+      "number": 1,
+      "es": "Hola.",
+      "en": "Hello."
+    },
+    {
+      "day": 3,
+      "topic": "Pronunciation",
+      "number": 2,
+      "es": "Gracias.",
+      "en": "Thank you."
+    },
+    {
+      "day": 3,
+      "topic": "Pronunciation",
+      "number": 3,
+      "es": "Por favor.",
+      "en": "Please."
+    },
+    {
+      "day": 3,
+      "topic": "Pronunciation",
+      "number": 4,
+      "es": "Perdón.",
+      "en": "Sorry / excuse me."
+    },
+    {
+      "day": 3,
+      "topic": "Pronunciation",
+      "number": 5,
+      "es": "Sí.",
+      "en": "Yes."
+    },
+    {
+      "day": 3,
+      "topic": "Pronunciation",
+      "number": 6,
+      "es": "No.",
+      "en": "No."
+    },
+    {
+      "day": 3,
+      "topic": "Pronunciation",
+      "number": 7,
+      "es": "Mucho.",
+      "en": "A lot."
+    },
+    {
+      "day": 3,
+      "topic": "Pronunciation",
+      "number": 8,
+      "es": "Poco.",
+      "en": "A little."
+    },
+    {
+      "day": 3,
+      "topic": "Pronunciation",
+      "number": 9,
+      "es": "Trabajo.",
+      "en": "I work / work."
+    },
+    {
+      "day": 3,
+      "topic": "Pronunciation",
+      "number": 10,
+      "es": "Español.",
+      "en": "Spanish."
+    },
+    {
+      "day": 4,
+      "topic": "Days, months & time",
+      "number": 1,
+      "es": "¿Qué día es hoy?",
+      "en": "What day is it today?"
+    },
+    {
+      "day": 4,
+      "topic": "Days, months & time",
+      "number": 2,
+      "es": "Hoy es lunes.",
+      "en": "Today is Monday."
+    },
+    {
+      "day": 4,
+      "topic": "Days, months & time",
+      "number": 3,
+      "es": "Mañana es martes.",
+      "en": "Tomorrow is Tuesday."
+    },
+    {
+      "day": 4,
+      "topic": "Days, months & time",
+      "number": 4,
+      "es": "¿Qué hora es?",
+      "en": "What time is it?"
+    },
+    {
+      "day": 4,
+      "topic": "Days, months & time",
+      "number": 5,
+      "es": "Es la una.",
+      "en": "It's one o'clock."
+    },
+    {
+      "day": 4,
+      "topic": "Days, months & time",
+      "number": 6,
+      "es": "Son las tres.",
+      "en": "It's three o'clock."
+    },
+    {
+      "day": 4,
+      "topic": "Days, months & time",
+      "number": 7,
+      "es": "Trabajo por la mañana.",
+      "en": "I work in the morning."
+    },
+    {
+      "day": 4,
+      "topic": "Days, months & time",
+      "number": 8,
+      "es": "Trabajo por la tarde.",
+      "en": "I work in the afternoon."
+    },
+    {
+      "day": 4,
+      "topic": "Days, months & time",
+      "number": 9,
+      "es": "Hoy tengo tiempo.",
+      "en": "I have time today."
+    },
+    {
+      "day": 4,
+      "topic": "Days, months & time",
+      "number": 10,
+      "es": "Nos vemos mañana.",
+      "en": "See you tomorrow."
+    },
+    {
+      "day": 5,
+      "topic": "Ser & estar",
+      "number": 1,
+      "es": "Soy de Bangladés.",
+      "en": "I'm from Bangladesh."
+    },
+    {
+      "day": 5,
+      "topic": "Ser & estar",
+      "number": 2,
+      "es": "Soy estudiante.",
+      "en": "I'm a student."
+    },
+    {
+      "day": 5,
+      "topic": "Ser & estar",
+      "number": 3,
+      "es": "Estoy bien.",
+      "en": "I'm fine."
+    },
+    {
+      "day": 5,
+      "topic": "Ser & estar",
+      "number": 4,
+      "es": "Estoy cansado.",
+      "en": "I'm tired. (masculine)"
+    },
+    {
+      "day": 5,
+      "topic": "Ser & estar",
+      "number": 5,
+      "es": "Estoy cansada.",
+      "en": "I'm tired. (feminine)"
+    },
+    {
+      "day": 5,
+      "topic": "Ser & estar",
+      "number": 6,
+      "es": "Estoy ocupado.",
+      "en": "I'm busy. (masculine)"
+    },
+    {
+      "day": 5,
+      "topic": "Ser & estar",
+      "number": 7,
+      "es": "Estoy en Madrid.",
+      "en": "I'm in Madrid."
+    },
+    {
+      "day": 5,
+      "topic": "Ser & estar",
+      "number": 8,
+      "es": "Mi español es básico.",
+      "en": "My Spanish is basic."
+    },
+    {
+      "day": 5,
+      "topic": "Ser & estar",
+      "number": 9,
+      "es": "La comida está rica.",
+      "en": "The food tastes good."
+    },
+    {
+      "day": 5,
+      "topic": "Ser & estar",
+      "number": 10,
+      "es": "Estoy contento.",
+      "en": "I'm happy. (masculine)"
+    },
+    {
+      "day": 6,
+      "topic": "Essential questions",
+      "number": 1,
+      "es": "¿Qué?",
+      "en": "What?"
+    },
+    {
+      "day": 6,
+      "topic": "Essential questions",
+      "number": 2,
+      "es": "¿Quién?",
+      "en": "Who?"
+    },
+    {
+      "day": 6,
+      "topic": "Essential questions",
+      "number": 3,
+      "es": "¿Dónde?",
+      "en": "Where?"
+    },
+    {
+      "day": 6,
+      "topic": "Essential questions",
+      "number": 4,
+      "es": "¿Cuándo?",
+      "en": "When?"
+    },
+    {
+      "day": 6,
+      "topic": "Essential questions",
+      "number": 5,
+      "es": "¿Por qué?",
+      "en": "Why?"
+    },
+    {
+      "day": 6,
+      "topic": "Essential questions",
+      "number": 6,
+      "es": "¿Cómo?",
+      "en": "How?"
+    },
+    {
+      "day": 6,
+      "topic": "Essential questions",
+      "number": 7,
+      "es": "¿Cuánto cuesta?",
+      "en": "How much does it cost?"
+    },
+    {
+      "day": 6,
+      "topic": "Essential questions",
+      "number": 8,
+      "es": "¿De dónde eres?",
+      "en": "Where are you from?"
+    },
+    {
+      "day": 6,
+      "topic": "Essential questions",
+      "number": 9,
+      "es": "¿Hablas inglés?",
+      "en": "Do you speak English?"
+    },
+    {
+      "day": 6,
+      "topic": "Essential questions",
+      "number": 10,
+      "es": "¿Puedes repetir, por favor?",
+      "en": "Can you repeat, please?"
+    },
+    {
+      "day": 7,
+      "topic": "Week 1 revision",
+      "number": 1,
+      "es": "Me llamo Akram.",
+      "en": "My name is Akram."
+    },
+    {
+      "day": 7,
+      "topic": "Week 1 revision",
+      "number": 2,
+      "es": "Vivo en España.",
+      "en": "I live in Spain."
+    },
+    {
+      "day": 7,
+      "topic": "Week 1 revision",
+      "number": 3,
+      "es": "Soy de Bangladés.",
+      "en": "I'm from Bangladesh."
+    },
+    {
+      "day": 7,
+      "topic": "Week 1 revision",
+      "number": 4,
+      "es": "Hablo bengalí.",
+      "en": "I speak Bengali."
+    },
+    {
+      "day": 7,
+      "topic": "Week 1 revision",
+      "number": 5,
+      "es": "Hablo un poco de español.",
+      "en": "I speak a little Spanish."
+    },
+    {
+      "day": 7,
+      "topic": "Week 1 revision",
+      "number": 6,
+      "es": "Estoy aprendiendo español.",
+      "en": "I'm learning Spanish."
+    },
+    {
+      "day": 7,
+      "topic": "Week 1 revision",
+      "number": 7,
+      "es": "Soy estudiante.",
+      "en": "I'm a student."
+    },
+    {
+      "day": 7,
+      "topic": "Week 1 revision",
+      "number": 8,
+      "es": "Me gusta la música.",
+      "en": "I like music."
+    },
+    {
+      "day": 7,
+      "topic": "Week 1 revision",
+      "number": 9,
+      "es": "Quiero hablar español mejor.",
+      "en": "I want to speak Spanish better."
+    },
+    {
+      "day": 7,
+      "topic": "Week 1 revision",
+      "number": 10,
+      "es": "Mucho gusto.",
+      "en": "Nice to meet you."
+    },
+    {
+      "day": 8,
+      "topic": "Common verbs",
+      "number": 1,
+      "es": "Quiero aprender.",
+      "en": "I want to learn."
+    },
+    {
+      "day": 8,
+      "topic": "Common verbs",
+      "number": 2,
+      "es": "Necesito ayuda.",
+      "en": "I need help."
+    },
+    {
+      "day": 8,
+      "topic": "Common verbs",
+      "number": 3,
+      "es": "Tengo tiempo.",
+      "en": "I have time."
+    },
+    {
+      "day": 8,
+      "topic": "Common verbs",
+      "number": 4,
+      "es": "Voy a casa.",
+      "en": "I'm going home."
+    },
+    {
+      "day": 8,
+      "topic": "Common verbs",
+      "number": 5,
+      "es": "Hablo español.",
+      "en": "I speak Spanish."
+    },
+    {
+      "day": 8,
+      "topic": "Common verbs",
+      "number": 6,
+      "es": "Como arroz.",
+      "en": "I eat rice."
+    },
+    {
+      "day": 8,
+      "topic": "Common verbs",
+      "number": 7,
+      "es": "Bebo agua.",
+      "en": "I drink water."
+    },
+    {
+      "day": 8,
+      "topic": "Common verbs",
+      "number": 8,
+      "es": "Vivo en España.",
+      "en": "I live in Spain."
+    },
+    {
+      "day": 8,
+      "topic": "Common verbs",
+      "number": 9,
+      "es": "Trabajo hoy.",
+      "en": "I work today."
+    },
+    {
+      "day": 8,
+      "topic": "Common verbs",
+      "number": 10,
+      "es": "Estudio español.",
+      "en": "I study Spanish."
+    },
+    {
+      "day": 9,
+      "topic": "Daily routine",
+      "number": 1,
+      "es": "Me despierto a las siete.",
+      "en": "I wake up at seven."
+    },
+    {
+      "day": 9,
+      "topic": "Daily routine",
+      "number": 2,
+      "es": "Me levanto temprano.",
+      "en": "I get up early."
+    },
+    {
+      "day": 9,
+      "topic": "Daily routine",
+      "number": 3,
+      "es": "Desayuno por la mañana.",
+      "en": "I have breakfast in the morning."
+    },
+    {
+      "day": 9,
+      "topic": "Daily routine",
+      "number": 4,
+      "es": "Voy al trabajo.",
+      "en": "I go to work."
+    },
+    {
+      "day": 9,
+      "topic": "Daily routine",
+      "number": 5,
+      "es": "Empiezo a trabajar a las nueve.",
+      "en": "I start work at nine."
+    },
+    {
+      "day": 9,
+      "topic": "Daily routine",
+      "number": 6,
+      "es": "Como al mediodía.",
+      "en": "I eat at midday."
+    },
+    {
+      "day": 9,
+      "topic": "Daily routine",
+      "number": 7,
+      "es": "Vuelvo a casa.",
+      "en": "I return home."
+    },
+    {
+      "day": 9,
+      "topic": "Daily routine",
+      "number": 8,
+      "es": "Ceno por la noche.",
+      "en": "I have dinner at night."
+    },
+    {
+      "day": 9,
+      "topic": "Daily routine",
+      "number": 9,
+      "es": "Estudio español por la tarde.",
+      "en": "I study Spanish in the afternoon."
+    },
+    {
+      "day": 9,
+      "topic": "Daily routine",
+      "number": 10,
+      "es": "Me acuesto tarde.",
+      "en": "I go to bed late."
+    },
+    {
+      "day": 10,
+      "topic": "Food & restaurants",
+      "number": 1,
+      "es": "Una mesa para una persona, por favor.",
+      "en": "A table for one, please."
+    },
+    {
+      "day": 10,
+      "topic": "Food & restaurants",
+      "number": 2,
+      "es": "Quiero un café, por favor.",
+      "en": "I'd like a coffee, please."
+    },
+    {
+      "day": 10,
+      "topic": "Food & restaurants",
+      "number": 3,
+      "es": "Quiero agua.",
+      "en": "I'd like water."
+    },
+    {
+      "day": 10,
+      "topic": "Food & restaurants",
+      "number": 4,
+      "es": "¿Tienen menú?",
+      "en": "Do you have a menu?"
+    },
+    {
+      "day": 10,
+      "topic": "Food & restaurants",
+      "number": 5,
+      "es": "¿Qué me recomienda?",
+      "en": "What do you recommend?"
+    },
+    {
+      "day": 10,
+      "topic": "Food & restaurants",
+      "number": 6,
+      "es": "Sin cebolla, por favor.",
+      "en": "Without onion, please."
+    },
+    {
+      "day": 10,
+      "topic": "Food & restaurants",
+      "number": 7,
+      "es": "La cuenta, por favor.",
+      "en": "The bill, please."
+    },
+    {
+      "day": 10,
+      "topic": "Food & restaurants",
+      "number": 8,
+      "es": "¿Puedo pagar con tarjeta?",
+      "en": "Can I pay by card?"
+    },
+    {
+      "day": 10,
+      "topic": "Food & restaurants",
+      "number": 9,
+      "es": "Está muy rico.",
+      "en": "It's very tasty."
+    },
+    {
+      "day": 10,
+      "topic": "Food & restaurants",
+      "number": 10,
+      "es": "Gracias, todo estaba muy bueno.",
+      "en": "Thank you, everything was very good."
+    },
+    {
+      "day": 11,
+      "topic": "Shopping & prices",
+      "number": 1,
+      "es": "Estoy buscando esto.",
+      "en": "I'm looking for this."
+    },
+    {
+      "day": 11,
+      "topic": "Shopping & prices",
+      "number": 2,
+      "es": "¿Cuánto cuesta?",
+      "en": "How much does it cost?"
+    },
+    {
+      "day": 11,
+      "topic": "Shopping & prices",
+      "number": 3,
+      "es": "Es muy caro.",
+      "en": "It's very expensive."
+    },
+    {
+      "day": 11,
+      "topic": "Shopping & prices",
+      "number": 4,
+      "es": "¿Hay algo más barato?",
+      "en": "Is there anything cheaper?"
+    },
+    {
+      "day": 11,
+      "topic": "Shopping & prices",
+      "number": 5,
+      "es": "Quiero este, por favor.",
+      "en": "I'd like this one, please."
+    },
+    {
+      "day": 11,
+      "topic": "Shopping & prices",
+      "number": 6,
+      "es": "¿Tiene otra talla?",
+      "en": "Do you have another size?"
+    },
+    {
+      "day": 11,
+      "topic": "Shopping & prices",
+      "number": 7,
+      "es": "¿Puedo probarlo?",
+      "en": "Can I try it on?"
+    },
+    {
+      "day": 11,
+      "topic": "Shopping & prices",
+      "number": 8,
+      "es": "Solo estoy mirando, gracias.",
+      "en": "I'm just looking, thank you."
+    },
+    {
+      "day": 11,
+      "topic": "Shopping & prices",
+      "number": 9,
+      "es": "¿Aceptan tarjeta?",
+      "en": "Do you accept cards?"
+    },
+    {
+      "day": 11,
+      "topic": "Shopping & prices",
+      "number": 10,
+      "es": "Aquí tiene.",
+      "en": "Here you go."
+    },
+    {
+      "day": 12,
+      "topic": "Directions & transport",
+      "number": 1,
+      "es": "¿Dónde está la parada de autobús?",
+      "en": "Where is the bus stop?"
+    },
+    {
+      "day": 12,
+      "topic": "Directions & transport",
+      "number": 2,
+      "es": "¿Dónde está la estación?",
+      "en": "Where is the station?"
+    },
+    {
+      "day": 12,
+      "topic": "Directions & transport",
+      "number": 3,
+      "es": "Quiero ir al centro.",
+      "en": "I want to go to the city centre."
+    },
+    {
+      "day": 12,
+      "topic": "Directions & transport",
+      "number": 4,
+      "es": "¿Qué autobús tengo que coger?",
+      "en": "Which bus should I take?"
+    },
+    {
+      "day": 12,
+      "topic": "Directions & transport",
+      "number": 5,
+      "es": "¿Está lejos?",
+      "en": "Is it far?"
+    },
+    {
+      "day": 12,
+      "topic": "Directions & transport",
+      "number": 6,
+      "es": "¿Está cerca?",
+      "en": "Is it nearby?"
+    },
+    {
+      "day": 12,
+      "topic": "Directions & transport",
+      "number": 7,
+      "es": "A la derecha.",
+      "en": "To the right."
+    },
+    {
+      "day": 12,
+      "topic": "Directions & transport",
+      "number": 8,
+      "es": "A la izquierda.",
+      "en": "To the left."
+    },
+    {
+      "day": 12,
+      "topic": "Directions & transport",
+      "number": 9,
+      "es": "Todo recto.",
+      "en": "Straight ahead."
+    },
+    {
+      "day": 12,
+      "topic": "Directions & transport",
+      "number": 10,
+      "es": "¿Cuánto tarda?",
+      "en": "How long does it take?"
+    },
+    {
+      "day": 13,
+      "topic": "Talking about work",
+      "number": 1,
+      "es": "Estoy buscando trabajo.",
+      "en": "I'm looking for work."
+    },
+    {
+      "day": 13,
+      "topic": "Talking about work",
+      "number": 2,
+      "es": "Tengo experiencia en atención al cliente.",
+      "en": "I have customer service experience."
+    },
+    {
+      "day": 13,
+      "topic": "Talking about work",
+      "number": 3,
+      "es": "He trabajado en ventas.",
+      "en": "I've worked in sales."
+    },
+    {
+      "day": 13,
+      "topic": "Talking about work",
+      "number": 4,
+      "es": "Estoy disponible para trabajar.",
+      "en": "I'm available to work."
+    },
+    {
+      "day": 13,
+      "topic": "Talking about work",
+      "number": 5,
+      "es": "¿Hay alguna vacante?",
+      "en": "Is there any vacancy?"
+    },
+    {
+      "day": 13,
+      "topic": "Talking about work",
+      "number": 6,
+      "es": "¿Cuál es el horario?",
+      "en": "What are the working hours?"
+    },
+    {
+      "day": 13,
+      "topic": "Talking about work",
+      "number": 7,
+      "es": "¿Cuánto se paga?",
+      "en": "How much does it pay?"
+    },
+    {
+      "day": 13,
+      "topic": "Talking about work",
+      "number": 8,
+      "es": "Puedo trabajar los fines de semana.",
+      "en": "I can work weekends."
+    },
+    {
+      "day": 13,
+      "topic": "Talking about work",
+      "number": 9,
+      "es": "Aprendo rápido.",
+      "en": "I learn quickly."
+    },
+    {
+      "day": 13,
+      "topic": "Talking about work",
+      "number": 10,
+      "es": "Muchas gracias por su tiempo.",
+      "en": "Thank you very much for your time."
+    },
+    {
+      "day": 14,
+      "topic": "Week 2 revision",
+      "number": 1,
+      "es": "¿Qué haces hoy?",
+      "en": "What are you doing today?"
+    },
+    {
+      "day": 14,
+      "topic": "Week 2 revision",
+      "number": 2,
+      "es": "Voy al trabajo.",
+      "en": "I'm going to work."
+    },
+    {
+      "day": 14,
+      "topic": "Week 2 revision",
+      "number": 3,
+      "es": "¿Cuánto cuesta esto?",
+      "en": "How much does this cost?"
+    },
+    {
+      "day": 14,
+      "topic": "Week 2 revision",
+      "number": 4,
+      "es": "Quiero un café.",
+      "en": "I'd like a coffee."
+    },
+    {
+      "day": 14,
+      "topic": "Week 2 revision",
+      "number": 5,
+      "es": "¿Dónde está el metro?",
+      "en": "Where is the metro?"
+    },
+    {
+      "day": 14,
+      "topic": "Week 2 revision",
+      "number": 6,
+      "es": "No entiendo.",
+      "en": "I don't understand."
+    },
+    {
+      "day": 14,
+      "topic": "Week 2 revision",
+      "number": 7,
+      "es": "¿Puedes repetirlo?",
+      "en": "Can you repeat it?"
+    },
+    {
+      "day": 14,
+      "topic": "Week 2 revision",
+      "number": 8,
+      "es": "Tengo que estudiar.",
+      "en": "I have to study."
+    },
+    {
+      "day": 14,
+      "topic": "Week 2 revision",
+      "number": 9,
+      "es": "Voy a descansar.",
+      "en": "I'm going to rest."
+    },
+    {
+      "day": 14,
+      "topic": "Week 2 revision",
+      "number": 10,
+      "es": "¿Y tú qué tal?",
+      "en": "And how about you?"
+    },
+    {
+      "day": 15,
+      "topic": "Everyday conversations",
+      "number": 1,
+      "es": "¿Qué tal tu día?",
+      "en": "How's your day going?"
+    },
+    {
+      "day": 15,
+      "topic": "Everyday conversations",
+      "number": 2,
+      "es": "Todo bien, gracias.",
+      "en": "All good, thanks."
+    },
+    {
+      "day": 15,
+      "topic": "Everyday conversations",
+      "number": 3,
+      "es": "¿A qué te dedicas?",
+      "en": "What do you do for work?"
+    },
+    {
+      "day": 15,
+      "topic": "Everyday conversations",
+      "number": 4,
+      "es": "¿Desde cuándo vives aquí?",
+      "en": "How long have you lived here?"
+    },
+    {
+      "day": 15,
+      "topic": "Everyday conversations",
+      "number": 5,
+      "es": "Vivo aquí desde hace poco.",
+      "en": "I've lived here for a short time."
+    },
+    {
+      "day": 15,
+      "topic": "Everyday conversations",
+      "number": 6,
+      "es": "¿Te gusta Madrid?",
+      "en": "Do you like Madrid?"
+    },
+    {
+      "day": 15,
+      "topic": "Everyday conversations",
+      "number": 7,
+      "es": "Sí, me gusta mucho.",
+      "en": "Yes, I like it a lot."
+    },
+    {
+      "day": 15,
+      "topic": "Everyday conversations",
+      "number": 8,
+      "es": "No estoy seguro.",
+      "en": "I'm not sure. (masculine)"
+    },
+    {
+      "day": 15,
+      "topic": "Everyday conversations",
+      "number": 9,
+      "es": "Puede ser.",
+      "en": "Maybe / could be."
+    },
+    {
+      "day": 15,
+      "topic": "Everyday conversations",
+      "number": 10,
+      "es": "¡Qué bien!",
+      "en": "That's great!"
+    },
+    {
+      "day": 16,
+      "topic": "Making friends",
+      "number": 1,
+      "es": "¿Cómo te llamas?",
+      "en": "What's your name?"
+    },
+    {
+      "day": 16,
+      "topic": "Making friends",
+      "number": 2,
+      "es": "¿De dónde eres?",
+      "en": "Where are you from?"
+    },
+    {
+      "day": 16,
+      "topic": "Making friends",
+      "number": 3,
+      "es": "¿Dónde vives?",
+      "en": "Where do you live?"
+    },
+    {
+      "day": 16,
+      "topic": "Making friends",
+      "number": 4,
+      "es": "¿Qué haces en tu tiempo libre?",
+      "en": "What do you do in your free time?"
+    },
+    {
+      "day": 16,
+      "topic": "Making friends",
+      "number": 5,
+      "es": "Me gusta el fútbol.",
+      "en": "I like football."
+    },
+    {
+      "day": 16,
+      "topic": "Making friends",
+      "number": 6,
+      "es": "Me gusta escuchar música.",
+      "en": "I like listening to music."
+    },
+    {
+      "day": 16,
+      "topic": "Making friends",
+      "number": 7,
+      "es": "¿Quieres tomar un café?",
+      "en": "Would you like to have a coffee?"
+    },
+    {
+      "day": 16,
+      "topic": "Making friends",
+      "number": 8,
+      "es": "Claro, ¿por qué no?",
+      "en": "Sure, why not?"
+    },
+    {
+      "day": 16,
+      "topic": "Making friends",
+      "number": 9,
+      "es": "¿Tienes WhatsApp?",
+      "en": "Do you have WhatsApp?"
+    },
+    {
+      "day": 16,
+      "topic": "Making friends",
+      "number": 10,
+      "es": "¡Hasta luego!",
+      "en": "See you later!"
+    },
+    {
+      "day": 17,
+      "topic": "Past tense basics",
+      "number": 1,
+      "es": "Ayer trabajé.",
+      "en": "Yesterday I worked."
+    },
+    {
+      "day": 17,
+      "topic": "Past tense basics",
+      "number": 2,
+      "es": "Ayer estudié español.",
+      "en": "Yesterday I studied Spanish."
+    },
+    {
+      "day": 17,
+      "topic": "Past tense basics",
+      "number": 3,
+      "es": "Fui al supermercado.",
+      "en": "I went to the supermarket."
+    },
+    {
+      "day": 17,
+      "topic": "Past tense basics",
+      "number": 4,
+      "es": "Comí en casa.",
+      "en": "I ate at home."
+    },
+    {
+      "day": 17,
+      "topic": "Past tense basics",
+      "number": 5,
+      "es": "Hablé con un amigo.",
+      "en": "I spoke with a friend."
+    },
+    {
+      "day": 17,
+      "topic": "Past tense basics",
+      "number": 6,
+      "es": "Vi una película.",
+      "en": "I watched a film."
+    },
+    {
+      "day": 17,
+      "topic": "Past tense basics",
+      "number": 7,
+      "es": "Tuve mucho trabajo.",
+      "en": "I had a lot of work."
+    },
+    {
+      "day": 17,
+      "topic": "Past tense basics",
+      "number": 8,
+      "es": "Llegué tarde.",
+      "en": "I arrived late."
+    },
+    {
+      "day": 17,
+      "topic": "Past tense basics",
+      "number": 9,
+      "es": "No salí ayer.",
+      "en": "I didn't go out yesterday."
+    },
+    {
+      "day": 17,
+      "topic": "Past tense basics",
+      "number": 10,
+      "es": "Fue un buen día.",
+      "en": "It was a good day."
+    },
+    {
+      "day": 18,
+      "topic": "Future plans",
+      "number": 1,
+      "es": "Voy a estudiar.",
+      "en": "I'm going to study."
+    },
+    {
+      "day": 18,
+      "topic": "Future plans",
+      "number": 2,
+      "es": "Voy a trabajar mañana.",
+      "en": "I'm going to work tomorrow."
+    },
+    {
+      "day": 18,
+      "topic": "Future plans",
+      "number": 3,
+      "es": "Voy a llamar a mi amigo.",
+      "en": "I'm going to call my friend."
+    },
+    {
+      "day": 18,
+      "topic": "Future plans",
+      "number": 4,
+      "es": "Voy a cocinar en casa.",
+      "en": "I'm going to cook at home."
+    },
+    {
+      "day": 18,
+      "topic": "Future plans",
+      "number": 5,
+      "es": "¿Qué vas a hacer mañana?",
+      "en": "What are you going to do tomorrow?"
+    },
+    {
+      "day": 18,
+      "topic": "Future plans",
+      "number": 6,
+      "es": "Voy a descansar.",
+      "en": "I'm going to rest."
+    },
+    {
+      "day": 18,
+      "topic": "Future plans",
+      "number": 7,
+      "es": "Voy a buscar trabajo.",
+      "en": "I'm going to look for work."
+    },
+    {
+      "day": 18,
+      "topic": "Future plans",
+      "number": 8,
+      "es": "Vamos a salir.",
+      "en": "We're going to go out."
+    },
+    {
+      "day": 18,
+      "topic": "Future plans",
+      "number": 9,
+      "es": "No voy a trabajar mañana.",
+      "en": "I'm not going to work tomorrow."
+    },
+    {
+      "day": 18,
+      "topic": "Future plans",
+      "number": 10,
+      "es": "Tengo planes.",
+      "en": "I have plans."
+    },
+    {
+      "day": 19,
+      "topic": "Phone conversations",
+      "number": 1,
+      "es": "¿Diga?",
+      "en": "Hello? (answering the phone, Spain)"
+    },
+    {
+      "day": 19,
+      "topic": "Phone conversations",
+      "number": 2,
+      "es": "Hola, soy Akram.",
+      "en": "Hello, it's Akram."
+    },
+    {
+      "day": 19,
+      "topic": "Phone conversations",
+      "number": 3,
+      "es": "¿Quién habla?",
+      "en": "Who's speaking?"
+    },
+    {
+      "day": 19,
+      "topic": "Phone conversations",
+      "number": 4,
+      "es": "¿Puedes hablar ahora?",
+      "en": "Can you talk now?"
+    },
+    {
+      "day": 19,
+      "topic": "Phone conversations",
+      "number": 5,
+      "es": "No te escucho bien.",
+      "en": "I can't hear you well."
+    },
+    {
+      "day": 19,
+      "topic": "Phone conversations",
+      "number": 6,
+      "es": "Hay mucho ruido.",
+      "en": "There's a lot of noise."
+    },
+    {
+      "day": 19,
+      "topic": "Phone conversations",
+      "number": 7,
+      "es": "Te llamo más tarde.",
+      "en": "I'll call you later."
+    },
+    {
+      "day": 19,
+      "topic": "Phone conversations",
+      "number": 8,
+      "es": "¿Me puedes enviar un mensaje?",
+      "en": "Can you send me a message?"
+    },
+    {
+      "day": 19,
+      "topic": "Phone conversations",
+      "number": 9,
+      "es": "Un momento, por favor.",
+      "en": "One moment, please."
+    },
+    {
+      "day": 19,
+      "topic": "Phone conversations",
+      "number": 10,
+      "es": "Gracias por llamar.",
+      "en": "Thanks for calling."
+    },
+    {
+      "day": 20,
+      "topic": "Problems & requests",
+      "number": 1,
+      "es": "Tengo un problema.",
+      "en": "I have a problem."
+    },
+    {
+      "day": 20,
+      "topic": "Problems & requests",
+      "number": 2,
+      "es": "Necesito ayuda, por favor.",
+      "en": "I need help, please."
+    },
+    {
+      "day": 20,
+      "topic": "Problems & requests",
+      "number": 3,
+      "es": "No funciona.",
+      "en": "It doesn't work."
+    },
+    {
+      "day": 20,
+      "topic": "Problems & requests",
+      "number": 4,
+      "es": "No encuentro mi teléfono.",
+      "en": "I can't find my phone."
+    },
+    {
+      "day": 20,
+      "topic": "Problems & requests",
+      "number": 5,
+      "es": "Me he perdido.",
+      "en": "I'm lost."
+    },
+    {
+      "day": 20,
+      "topic": "Problems & requests",
+      "number": 6,
+      "es": "¿Puedes ayudarme?",
+      "en": "Can you help me?"
+    },
+    {
+      "day": 20,
+      "topic": "Problems & requests",
+      "number": 7,
+      "es": "¿Puedes repetirlo más despacio?",
+      "en": "Can you repeat it more slowly?"
+    },
+    {
+      "day": 20,
+      "topic": "Problems & requests",
+      "number": 8,
+      "es": "No lo sé.",
+      "en": "I don't know."
+    },
+    {
+      "day": 20,
+      "topic": "Problems & requests",
+      "number": 9,
+      "es": "¿Qué significa eso?",
+      "en": "What does that mean?"
+    },
+    {
+      "day": 20,
+      "topic": "Problems & requests",
+      "number": 10,
+      "es": "Muchas gracias por tu ayuda.",
+      "en": "Thank you very much for your help."
+    },
+    {
+      "day": 21,
+      "topic": "Week 3 listening test",
+      "number": 1,
+      "es": "Entiendo un poco.",
+      "en": "I understand a little."
+    },
+    {
+      "day": 21,
+      "topic": "Week 3 listening test",
+      "number": 2,
+      "es": "Estoy aprendiendo.",
+      "en": "I'm learning."
+    },
+    {
+      "day": 21,
+      "topic": "Week 3 listening test",
+      "number": 3,
+      "es": "¿Puedes hablar más despacio?",
+      "en": "Can you speak more slowly?"
+    },
+    {
+      "day": 21,
+      "topic": "Week 3 listening test",
+      "number": 4,
+      "es": "¿Puedes decirlo otra vez?",
+      "en": "Can you say it again?"
+    },
+    {
+      "day": 21,
+      "topic": "Week 3 listening test",
+      "number": 5,
+      "es": "Ahora entiendo.",
+      "en": "Now I understand."
+    },
+    {
+      "day": 21,
+      "topic": "Week 3 listening test",
+      "number": 6,
+      "es": "No entiendo esa palabra.",
+      "en": "I don't understand that word."
+    },
+    {
+      "day": 21,
+      "topic": "Week 3 listening test",
+      "number": 7,
+      "es": "¿Cómo se dice en español?",
+      "en": "How do you say it in Spanish?"
+    },
+    {
+      "day": 21,
+      "topic": "Week 3 listening test",
+      "number": 8,
+      "es": "¿Qué quiere decir?",
+      "en": "What does it mean?"
+    },
+    {
+      "day": 21,
+      "topic": "Week 3 listening test",
+      "number": 9,
+      "es": "Necesito practicar más.",
+      "en": "I need to practise more."
+    },
+    {
+      "day": 21,
+      "topic": "Week 3 listening test",
+      "number": 10,
+      "es": "Poco a poco.",
+      "en": "Little by little."
+    },
+    {
+      "day": 22,
+      "topic": "Colleagues & workplace",
+      "number": 1,
+      "es": "Buenos días, ¿qué tal?",
+      "en": "Good morning, how are you?"
+    },
+    {
+      "day": 22,
+      "topic": "Colleagues & workplace",
+      "number": 2,
+      "es": "¿A qué hora empezamos?",
+      "en": "What time do we start?"
+    },
+    {
+      "day": 22,
+      "topic": "Colleagues & workplace",
+      "number": 3,
+      "es": "¿Qué tengo que hacer?",
+      "en": "What do I have to do?"
+    },
+    {
+      "day": 22,
+      "topic": "Colleagues & workplace",
+      "number": 4,
+      "es": "¿Me puedes enseñar?",
+      "en": "Can you show me?"
+    },
+    {
+      "day": 22,
+      "topic": "Colleagues & workplace",
+      "number": 5,
+      "es": "Ya he terminado.",
+      "en": "I've finished already."
+    },
+    {
+      "day": 22,
+      "topic": "Colleagues & workplace",
+      "number": 6,
+      "es": "¿Necesitas ayuda?",
+      "en": "Do you need help?"
+    },
+    {
+      "day": 22,
+      "topic": "Colleagues & workplace",
+      "number": 7,
+      "es": "Estoy ocupado ahora.",
+      "en": "I'm busy right now."
+    },
+    {
+      "day": 22,
+      "topic": "Colleagues & workplace",
+      "number": 8,
+      "es": "Vuelvo enseguida.",
+      "en": "I'll be right back."
+    },
+    {
+      "day": 22,
+      "topic": "Colleagues & workplace",
+      "number": 9,
+      "es": "¿Dónde dejo esto?",
+      "en": "Where should I leave this?"
+    },
+    {
+      "day": 22,
+      "topic": "Colleagues & workplace",
+      "number": 10,
+      "es": "Hasta mañana, que tengas buen día.",
+      "en": "See you tomorrow; have a good day."
+    },
+    {
+      "day": 23,
+      "topic": "Job interviews",
+      "number": 1,
+      "es": "Busco una oportunidad de trabajo.",
+      "en": "I'm looking for a job opportunity."
+    },
+    {
+      "day": 23,
+      "topic": "Job interviews",
+      "number": 2,
+      "es": "Tengo experiencia en atención al cliente.",
+      "en": "I have customer service experience."
+    },
+    {
+      "day": 23,
+      "topic": "Job interviews",
+      "number": 3,
+      "es": "Soy responsable y puntual.",
+      "en": "I'm responsible and punctual."
+    },
+    {
+      "day": 23,
+      "topic": "Job interviews",
+      "number": 4,
+      "es": "Aprendo rápido.",
+      "en": "I learn quickly."
+    },
+    {
+      "day": 23,
+      "topic": "Job interviews",
+      "number": 5,
+      "es": "Puedo trabajar en equipo.",
+      "en": "I can work in a team."
+    },
+    {
+      "day": 23,
+      "topic": "Job interviews",
+      "number": 6,
+      "es": "Estoy disponible inmediatamente.",
+      "en": "I'm available immediately."
+    },
+    {
+      "day": 23,
+      "topic": "Job interviews",
+      "number": 7,
+      "es": "¿Cuáles son las funciones del puesto?",
+      "en": "What are the duties of the position?"
+    },
+    {
+      "day": 23,
+      "topic": "Job interviews",
+      "number": 8,
+      "es": "¿Cuál es el horario de trabajo?",
+      "en": "What are the working hours?"
+    },
+    {
+      "day": 23,
+      "topic": "Job interviews",
+      "number": 9,
+      "es": "Gracias por la entrevista.",
+      "en": "Thank you for the interview."
+    },
+    {
+      "day": 23,
+      "topic": "Job interviews",
+      "number": 10,
+      "es": "Quedo a su disposición.",
+      "en": "I'm available if you need anything further."
+    },
+    {
+      "day": 24,
+      "topic": "Customer service",
+      "number": 1,
+      "es": "Hola, ¿en qué puedo ayudarle?",
+      "en": "Hello, how can I help you?"
+    },
+    {
+      "day": 24,
+      "topic": "Customer service",
+      "number": 2,
+      "es": "¿Qué necesita?",
+      "en": "What do you need?"
+    },
+    {
+      "day": 24,
+      "topic": "Customer service",
+      "number": 3,
+      "es": "Un momento, por favor.",
+      "en": "One moment, please."
+    },
+    {
+      "day": 24,
+      "topic": "Customer service",
+      "number": 4,
+      "es": "Ahora mismo lo miro.",
+      "en": "I'll check it right now."
+    },
+    {
+      "day": 24,
+      "topic": "Customer service",
+      "number": 5,
+      "es": "¿Tiene alguna pregunta?",
+      "en": "Do you have any questions?"
+    },
+    {
+      "day": 24,
+      "topic": "Customer service",
+      "number": 6,
+      "es": "Lo siento por la espera.",
+      "en": "Sorry for the wait."
+    },
+    {
+      "day": 24,
+      "topic": "Customer service",
+      "number": 7,
+      "es": "Gracias por su paciencia.",
+      "en": "Thank you for your patience."
+    },
+    {
+      "day": 24,
+      "topic": "Customer service",
+      "number": 8,
+      "es": "¿Quiere una bolsa?",
+      "en": "Would you like a bag?"
+    },
+    {
+      "day": 24,
+      "topic": "Customer service",
+      "number": 9,
+      "es": "¿Algo más?",
+      "en": "Anything else?"
+    },
+    {
+      "day": 24,
+      "topic": "Customer service",
+      "number": 10,
+      "es": "Que tenga un buen día.",
+      "en": "Have a nice day."
+    },
+    {
+      "day": 25,
+      "topic": "Housing & flatmates",
+      "number": 1,
+      "es": "¿Cuánto cuesta la habitación?",
+      "en": "How much is the room?"
+    },
+    {
+      "day": 25,
+      "topic": "Housing & flatmates",
+      "number": 2,
+      "es": "¿Los gastos están incluidos?",
+      "en": "Are bills included?"
+    },
+    {
+      "day": 25,
+      "topic": "Housing & flatmates",
+      "number": 3,
+      "es": "¿Hay internet?",
+      "en": "Is there internet?"
+    },
+    {
+      "day": 25,
+      "topic": "Housing & flatmates",
+      "number": 4,
+      "es": "¿Dónde está la cocina?",
+      "en": "Where is the kitchen?"
+    },
+    {
+      "day": 25,
+      "topic": "Housing & flatmates",
+      "number": 5,
+      "es": "¿A qué hora puedo lavar la ropa?",
+      "en": "What time can I do laundry?"
+    },
+    {
+      "day": 25,
+      "topic": "Housing & flatmates",
+      "number": 6,
+      "es": "Hoy me toca sacar la basura.",
+      "en": "It's my turn to take out the rubbish today."
+    },
+    {
+      "day": 25,
+      "topic": "Housing & flatmates",
+      "number": 7,
+      "es": "¿Podemos limpiar la casa hoy?",
+      "en": "Can we clean the house today?"
+    },
+    {
+      "day": 25,
+      "topic": "Housing & flatmates",
+      "number": 8,
+      "es": "Voy a comprar productos de limpieza.",
+      "en": "I'm going to buy cleaning products."
+    },
+    {
+      "day": 25,
+      "topic": "Housing & flatmates",
+      "number": 9,
+      "es": "¿Podemos hablar un momento?",
+      "en": "Can we talk for a moment?"
+    },
+    {
+      "day": 25,
+      "topic": "Housing & flatmates",
+      "number": 10,
+      "es": "Gracias por avisarme.",
+      "en": "Thanks for letting me know."
+    },
+    {
+      "day": 26,
+      "topic": "Making plans",
+      "number": 1,
+      "es": "¿Qué haces este fin de semana?",
+      "en": "What are you doing this weekend?"
+    },
+    {
+      "day": 26,
+      "topic": "Making plans",
+      "number": 2,
+      "es": "¿Quieres quedar?",
+      "en": "Do you want to meet up?"
+    },
+    {
+      "day": 26,
+      "topic": "Making plans",
+      "number": 3,
+      "es": "¿Te apetece tomar algo?",
+      "en": "Would you like to get a drink?"
+    },
+    {
+      "day": 26,
+      "topic": "Making plans",
+      "number": 4,
+      "es": "¿A qué hora?",
+      "en": "At what time?"
+    },
+    {
+      "day": 26,
+      "topic": "Making plans",
+      "number": 5,
+      "es": "¿Dónde quedamos?",
+      "en": "Where shall we meet?"
+    },
+    {
+      "day": 26,
+      "topic": "Making plans",
+      "number": 6,
+      "es": "A las seis me va bien.",
+      "en": "Six o'clock works for me."
+    },
+    {
+      "day": 26,
+      "topic": "Making plans",
+      "number": 7,
+      "es": "Lo siento, no puedo.",
+      "en": "Sorry, I can't."
+    },
+    {
+      "day": 26,
+      "topic": "Making plans",
+      "number": 8,
+      "es": "¿Qué tal mañana?",
+      "en": "How about tomorrow?"
+    },
+    {
+      "day": 26,
+      "topic": "Making plans",
+      "number": 9,
+      "es": "Perfecto, nos vemos allí.",
+      "en": "Perfect, see you there."
+    },
+    {
+      "day": 26,
+      "topic": "Making plans",
+      "number": 10,
+      "es": "Te aviso luego.",
+      "en": "I'll let you know later."
+    },
+    {
+      "day": 27,
+      "topic": "Understanding faster speech",
+      "number": 1,
+      "es": "¿Qué pasa?",
+      "en": "What's up?"
+    },
+    {
+      "day": 27,
+      "topic": "Understanding faster speech",
+      "number": 2,
+      "es": "Vale.",
+      "en": "Okay."
+    },
+    {
+      "day": 27,
+      "topic": "Understanding faster speech",
+      "number": 3,
+      "es": "Venga.",
+      "en": "All right / come on."
+    },
+    {
+      "day": 27,
+      "topic": "Understanding faster speech",
+      "number": 4,
+      "es": "Pues nada.",
+      "en": "Well, that's that / anyway."
+    },
+    {
+      "day": 27,
+      "topic": "Understanding faster speech",
+      "number": 5,
+      "es": "A ver.",
+      "en": "Let's see."
+    },
+    {
+      "day": 27,
+      "topic": "Understanding faster speech",
+      "number": 6,
+      "es": "O sea…",
+      "en": "I mean…"
+    },
+    {
+      "day": 27,
+      "topic": "Understanding faster speech",
+      "number": 7,
+      "es": "En plan…",
+      "en": "Like… (informal filler)"
+    },
+    {
+      "day": 27,
+      "topic": "Understanding faster speech",
+      "number": 8,
+      "es": "¿Sabes?",
+      "en": "You know?"
+    },
+    {
+      "day": 27,
+      "topic": "Understanding faster speech",
+      "number": 9,
+      "es": "Claro.",
+      "en": "Of course."
+    },
+    {
+      "day": 27,
+      "topic": "Understanding faster speech",
+      "number": 10,
+      "es": "No pasa nada.",
+      "en": "It's okay / no problem."
+    },
+    {
+      "day": 28,
+      "topic": "Everyday role-play",
+      "number": 1,
+      "es": "Perdona, ¿dónde está el supermercado?",
+      "en": "Excuse me, where is the supermarket?"
+    },
+    {
+      "day": 28,
+      "topic": "Everyday role-play",
+      "number": 2,
+      "es": "Quería un café con leche, por favor.",
+      "en": "I'd like a coffee with milk, please."
+    },
+    {
+      "day": 28,
+      "topic": "Everyday role-play",
+      "number": 3,
+      "es": "¿Me puede ayudar?",
+      "en": "Can you help me? (formal)"
+    },
+    {
+      "day": 28,
+      "topic": "Everyday role-play",
+      "number": 4,
+      "es": "Estoy buscando esta dirección.",
+      "en": "I'm looking for this address."
+    },
+    {
+      "day": 28,
+      "topic": "Everyday role-play",
+      "number": 5,
+      "es": "¿Puedo pagar en efectivo?",
+      "en": "Can I pay in cash?"
+    },
+    {
+      "day": 28,
+      "topic": "Everyday role-play",
+      "number": 6,
+      "es": "No tengo cambio.",
+      "en": "I don't have change."
+    },
+    {
+      "day": 28,
+      "topic": "Everyday role-play",
+      "number": 7,
+      "es": "¿Está abierto ahora?",
+      "en": "Is it open now?"
+    },
+    {
+      "day": 28,
+      "topic": "Everyday role-play",
+      "number": 8,
+      "es": "¿A qué hora cierra?",
+      "en": "What time does it close?"
+    },
+    {
+      "day": 28,
+      "topic": "Everyday role-play",
+      "number": 9,
+      "es": "Muchas gracias, muy amable.",
+      "en": "Thank you very much, that's very kind."
+    },
+    {
+      "day": 28,
+      "topic": "Everyday role-play",
+      "number": 10,
+      "es": "Que vaya bien.",
+      "en": "Have a good one."
+    },
+    {
+      "day": 29,
+      "topic": "Full speaking practice",
+      "number": 1,
+      "es": "Hoy quiero hablar de mi vida.",
+      "en": "Today I want to talk about my life."
+    },
+    {
+      "day": 29,
+      "topic": "Full speaking practice",
+      "number": 2,
+      "es": "Normalmente me levanto temprano.",
+      "en": "I usually get up early."
+    },
+    {
+      "day": 29,
+      "topic": "Full speaking practice",
+      "number": 3,
+      "es": "Trabajo y estudio español.",
+      "en": "I work and study Spanish."
+    },
+    {
+      "day": 29,
+      "topic": "Full speaking practice",
+      "number": 4,
+      "es": "En mi tiempo libre escucho música.",
+      "en": "In my free time I listen to music."
+    },
+    {
+      "day": 29,
+      "topic": "Full speaking practice",
+      "number": 5,
+      "es": "Ayer fui al supermercado.",
+      "en": "Yesterday I went to the supermarket."
+    },
+    {
+      "day": 29,
+      "topic": "Full speaking practice",
+      "number": 6,
+      "es": "Mañana voy a estudiar.",
+      "en": "Tomorrow I'm going to study."
+    },
+    {
+      "day": 29,
+      "topic": "Full speaking practice",
+      "number": 7,
+      "es": "Me gusta vivir en España.",
+      "en": "I like living in Spain."
+    },
+    {
+      "day": 29,
+      "topic": "Full speaking practice",
+      "number": 8,
+      "es": "Quiero mejorar mi español cada día.",
+      "en": "I want to improve my Spanish every day."
+    },
+    {
+      "day": 29,
+      "topic": "Full speaking practice",
+      "number": 9,
+      "es": "A veces me cuesta entender.",
+      "en": "Sometimes I find it difficult to understand."
+    },
+    {
+      "day": 29,
+      "topic": "Full speaking practice",
+      "number": 10,
+      "es": "Pero sigo practicando.",
+      "en": "But I keep practising."
+    },
+    {
+      "day": 30,
+      "topic": "Final assessment",
+      "number": 1,
+      "es": "Puedo presentarme en español.",
+      "en": "I can introduce myself in Spanish."
+    },
+    {
+      "day": 30,
+      "topic": "Final assessment",
+      "number": 2,
+      "es": "Puedo hablar de mi rutina.",
+      "en": "I can talk about my routine."
+    },
+    {
+      "day": 30,
+      "topic": "Final assessment",
+      "number": 3,
+      "es": "Puedo pedir comida.",
+      "en": "I can order food."
+    },
+    {
+      "day": 30,
+      "topic": "Final assessment",
+      "number": 4,
+      "es": "Puedo preguntar por el precio.",
+      "en": "I can ask the price."
+    },
+    {
+      "day": 30,
+      "topic": "Final assessment",
+      "number": 5,
+      "es": "Puedo pedir ayuda.",
+      "en": "I can ask for help."
+    },
+    {
+      "day": 30,
+      "topic": "Final assessment",
+      "number": 6,
+      "es": "Puedo hablar de mi trabajo.",
+      "en": "I can talk about my work."
+    },
+    {
+      "day": 30,
+      "topic": "Final assessment",
+      "number": 7,
+      "es": "Puedo hablar de ayer.",
+      "en": "I can talk about yesterday."
+    },
+    {
+      "day": 30,
+      "topic": "Final assessment",
+      "number": 8,
+      "es": "Puedo hablar de mañana.",
+      "en": "I can talk about tomorrow."
+    },
+    {
+      "day": 30,
+      "topic": "Final assessment",
+      "number": 9,
+      "es": "Todavía cometo errores.",
+      "en": "I still make mistakes."
+    },
+    {
+      "day": 30,
+      "topic": "Final assessment",
+      "number": 10,
+      "es": "Voy a seguir aprendiendo.",
+      "en": "I'm going to keep learning."
+    }
+  ]
+}
